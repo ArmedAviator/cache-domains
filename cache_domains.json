@@ -131,6 +131,16 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "voidlinux",
+			"description": "Mirrors for Void Linux",
+			"domain_files": ["voidlinux.txt"]
+		},
+		{
+			"name": "kodi",
+			"description": "Artwork and Movie Posters for Kodi",
+			"domain_files": ["kodi.txt"]
 		}
 	]
 }

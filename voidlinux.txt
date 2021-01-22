@@ -1,0 +1,4 @@
+alpha.de.repo.voidlinux.org
+mirrors.servercentral.com
+alpha.us.repo.voidlinux.org
+mirror.clarkson.edu

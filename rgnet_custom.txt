@@ -1,0 +1,11 @@
+download.proxmox.com
+ftp.us.debian.org
+security.debian.org
+us.archive.ubuntu.com
+security.ubuntu.com
+vault.centos.org
+alpha.de.repo.voidlinux.org
+mirrors.servercentral.com
+alpha.us.repo.voidlinux.org
+mirror.clarkson.edu
+image.tmdb.org
